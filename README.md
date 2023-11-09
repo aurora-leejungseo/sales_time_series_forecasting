@@ -1,4 +1,4 @@
-# sales_time_series_forecasting
+# Sales Time Series Forecasting
 
 The file "Time Series Data.xlsx" contains sales data for one of the products from the consumer goods company, spanning four years from June 2018 to June 2022. Utilize this dataset, "Time Series Data.xlsx," to develop a sales forecast model extending up to December 2023, on a monthly basis.
 
